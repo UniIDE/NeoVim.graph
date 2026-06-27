@@ -1,0 +1,1 @@
+- [How To Jump Anywhere Instantly in Neovim](https://youtu.be/p_sVgHS2zcA)
