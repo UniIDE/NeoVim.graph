@@ -1,0 +1,1 @@
+- [Neovim LSP Myth: You DON'T Need Plugins (The 5-Tier Setup)](https://youtu.be/yI9R13h9IEE)
