@@ -8,3 +8,7 @@ Site: https://www.terminalhackers.com/
 
 # Search:
 - https://www.youtube.com/@joseanmartinez/search?query=Neovim
+
+# Source:
+## .config/nvim
+`git clone --depth=1 https://github.com/josean-dev/dev-environment-files.git`
