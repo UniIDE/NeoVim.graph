@@ -1,0 +1,1 @@
+- [How to Setup Neovim LSP Like A Pro in 2025 (v0.11+)](https://youtu.be/oBiBEx7L000)
